@@ -4,7 +4,7 @@ title:  "Innovation vs. The Product Management Lifecycle"
 date:   2020-04-02 11:01:58 -0500
 categories: Product-Management
 ---
-#“If I had asked people what they wanted, they would have said faster horses.” - Henry Ford*
+# “If I had asked people what they wanted, they would have said faster horses.” - Henry Ford*
 
 I’d like to hear this quote less in the tech product world.
 
@@ -20,4 +20,4 @@ People love to solve problems. It’s how we find value in our work. Engineers e
 
 [Read More](https://hbr.org/2011/08/henry-ford-never-said-the-fast): From HBR: "An innovator should have understanding of one’s customers and their problems via empirical, observational, anecdotal methods or even intuition."
 
-* [Henry Ford didn't even say this.](http://quoteinvestigator.com/2011/07/28/ford-faster-horse/)
+*[Henry Ford didn't even say this.](http://quoteinvestigator.com/2011/07/28/ford-faster-horse/)
