@@ -24,7 +24,7 @@ github_username:  emeryray2002
 
 # Build settings
 markdown: kramdown
-theme: cayman
+theme: jekyll-theme-cayman
 #remote_theme: rosario/kasper
 plugins:
   - jekyll-feed
